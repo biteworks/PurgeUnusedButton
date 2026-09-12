@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "purge_unused_button"
+version = "1.0.0"
+name = "Purge Unused Button"
+tagline = "Purge unused data-blocks from the 3D Viewport"
+maintainer = "biteworks"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
